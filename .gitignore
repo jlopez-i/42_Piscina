@@ -2,6 +2,6 @@
 *.d
 *.out
 .DS_Store
-*.c.swp
-*.c.swo
+*.swp
+*.swo
 
